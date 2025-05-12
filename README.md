@@ -24,7 +24,7 @@ As part of the internship, I was assigned a UI task that focused on:
 
 ## 📸 Mockup
 
-![Mockup](Frame 1 (2).png)<!-- Make sure the image is uploaded to the repository -->
+!![UI](Frame%201%20(2).png) <!-- Make sure the image is uploaded to the repository -->
 
 ---
 
