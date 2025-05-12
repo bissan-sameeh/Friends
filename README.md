@@ -1,16 +1,55 @@
-# pitstrainintgpart1
+# 🧑‍💻 UI Task – Internship Challenge at PITS
 
-A new Flutter project.
+This repository showcases a screen layout I developed during my internship at **PITS المحترفون**. It was part of a training challenge aimed at testing and improving real-world Flutter skills.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 💡 Project Purpose
 
-A few resources to get you started if this is your first Flutter project:
+As part of the internship, I was assigned a UI task that focused on:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 🔹 Handling complex UI designs
+* 🔹 Ensuring **responsive design** across various screen sizes
+* 🔹 Writing **clean**, **well-structured**, and **readable code**
+* 🔹 Delivering results quickly and efficiently under real deadlines
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+
+* **Flutter** – Cross-platform development framework
+* **Dart** – Programming language for Flutter
+
+---
+
+## 📸 Mockup
+
+![Mockup](mockup.png) <!-- Make sure the image is uploaded to the repository -->
+
+---
+
+## 🌟 What I Learned
+
+This task was a valuable opportunity to:
+
+* Strengthen practical Flutter skills
+* Understand responsive design best practices
+* Adapt to real workplace expectations and timelines
+
+---
+
+## 🌐 LinkedIn Post
+
+📢 [Check out the full post here](https://www.linkedin.com/in/bissan-qwaider-691181233/recent-activity/all/)
+
+---
+
+## 🏷️ Tags
+
+`#Flutter` `#UIUX` `#CleanCode` `#ResponsiveDesign` `#MobileApp` `#Internship` `#PITS`
+
+---
+
+## 📬 Feedback
+
+Feel free to open issues or connect via LinkedIn to share your thoughts or questions!
